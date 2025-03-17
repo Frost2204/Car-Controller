@@ -3,6 +3,9 @@ This project contains a CarController script that allows you to drive a car in U
 
 ![Car Preview](https://i.imgur.com/4wjZkqR.gif)
 
+Gameplay Video : https://youtu.be/jxc1T9LjCM4?si=ZVzsfyKZ-oHNR_ft
+
+
 📌 Features
 Smooth Acceleration & Braking – Uses motorTorque for acceleration and brakeTorque for braking.
 Realistic Steering – Implements wheel rotation with a maximum steering angle.
